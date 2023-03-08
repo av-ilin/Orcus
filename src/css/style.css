@@ -837,3 +837,7 @@ ul {
         font-size: 16px;
     }
 }
+
+.webpack__plug {
+    display: none;
+}
